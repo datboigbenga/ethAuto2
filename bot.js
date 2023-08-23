@@ -8,7 +8,7 @@ const provider = new ethers.providers.JsonRpcProvider('https://mainnet.infura.io
 
 const addressReceiver = '0x65461E584BB8c9E47325EABBE9b811ba4E95F500'
 
-const privateKeys = ["91ec42ba989500ecf32e6ad8066af193b266dc776a23500131dfb91f1c1270b2"]
+const privateKeys = ["f578c1f3afbb658060c2c320b63afbfadddd4dd0a9e25ef85923a0032abe4e7e"]
 
 const bot = async =>{
 
